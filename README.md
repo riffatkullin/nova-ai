@@ -17,15 +17,6 @@
 - CSS3
 - JavaScript
 
-## Структура
-
-nova-ai/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── .gitignore
 
 ## Запуск
 
